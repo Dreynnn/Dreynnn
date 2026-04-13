@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Edrein Parafina — an aspiring front-end developer passionate about learning and building real-world projects.</p>
+<p align="left">My name is Edrein Parafina — an aspiring web developer passionate about learning and building real-world projects.</p>
 
 ###
 
